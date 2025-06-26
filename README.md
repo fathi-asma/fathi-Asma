@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hello, I'm a Beginning Coder !
 
-<!--
-**fathi-asma/fathi-Asma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm not a professional yet, but I'm learning every day with passion and patience.
 
-Here are some ideas to get you started:
+### 🌱 What I'm Learning:
+- Java (OOP, Servlets, JSP)
+- Web development (HTML, CSS)
+- File handling & simple backend logic
+- Git and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Projects I'm Working On:
+- 💪 Life Signal Tracking System (IoT project)
+- 📚 Study Planner (Java + File Handling)
+- ✅ Fitness membership system 
+
+### 🚀 Goals:
+- Improve my coding skills
+- Build more real-world projects
+- Collaborate and learn with others
+
+### 💬 Ask Me About:
+- Java basics
+- Simple project structure
+- How I started learning coding
+
+---
+
+> 📌 _"Still learning... one line of code at a time."_  
+> — Made with ❤️ by a passionate beginner
+
