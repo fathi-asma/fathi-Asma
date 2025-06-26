@@ -1,4 +1,4 @@
-# 👋 Hello, I'm a Beginning Coder !
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hello, I'm a Beginning Coder !
 
 I'm not a professional yet, but I'm learning every day with passion and patience.
 
